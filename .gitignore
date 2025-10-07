@@ -1,0 +1,22 @@
+# NetBeans specific files
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+
